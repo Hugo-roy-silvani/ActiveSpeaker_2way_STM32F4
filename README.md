@@ -1,11 +1,10 @@
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 # ActiveSpeaker_2way_STM32
 
 A two-way active speaker system powered by an STM32F407, featuring a real-time DSP crossover, gain control, and I2S audio processing.  
 This project demonstrates how to implement embedded audio DSP on ARM Cortex-M architecture using block-based processing.
 
-## Project Status
-This project is currently under active development.  
-Some features may be incomplete or subject to change.
 ---
 
 ## Overview
